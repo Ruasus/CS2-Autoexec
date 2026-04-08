@@ -1,9 +1,9 @@
 # CS2-Autoexec
 
-![Python](https://img.shields.io/badge/Python-3.6%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 Tired of having many Counter-Strike 2 accounts and struggling to sync settings?  
-**CS2-Autoexec** lets you export a master account’s CS2/CS:GO settings and share them across all your accounts effortlessly!
+**CS2-Autoexec** lets you export a master account’s CS2 settings and share them across all your accounts effortlessly!
 
 ---
 
@@ -16,19 +16,11 @@ Tired of having many Counter-Strike 2 accounts and struggling to sync settings?
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/CS2-Autoexec.git
-cd CS2-Autoexec
-
 ## Requirements
 
-- Python 3.6+
-- Windows OS
-- Access to your Steam `userdata` folder for CS2 accounts
+- Python 3.6+  
+- Windows OS  
+- Access to your Steam `userdata` folder for CS2 accounts  
 
 ---
 
