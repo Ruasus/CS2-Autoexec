@@ -1,6 +1,6 @@
 # CS2-Autoexec
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue) ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 Tired of having many Counter-Strike 2 accounts and struggling to sync settings?  
 **CS2-Autoexec** lets you export a master account’s CS2/CS:GO settings and share them across all your accounts effortlessly!
