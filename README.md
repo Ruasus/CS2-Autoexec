@@ -102,7 +102,7 @@ You will be prompted to enter your `STEAM_PATH` and `SteamID32` interactively.
 
 #### 3. Dev mode
 
-If you're comfortable with Python, you can hardcode `STEAM_PATH` and `UDC` directly in the source file. This mode also lets you customize the `CONVARS_ALLOWS` list to control which convars are exported.
+If you're comfortable with Python, you can hardcode `STEAM_PATH` and `UDC` directly in the source file. This mode also lets you customize the `CONVARS_ALLOWS` list to control which convars and keybindings are exported.
 
 ---
 
