@@ -118,15 +118,6 @@ Your master settings will be applied instantly.
 
 ---
 
-## Output
-
-The generated config file is saved to:
-
-```
-<STEAM_PATH>\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg\autoexec.cfg
-```
-
----
 
 ## License
 
